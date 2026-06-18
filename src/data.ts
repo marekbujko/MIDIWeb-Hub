@@ -10,6 +10,13 @@ export const initialSites: Site[] = [
       'Control the performance of musical scores with the help of a gamepad',
   },
   {
+    id: 'amyboard',
+    name: 'AMYboard Online’,
+    url: 'https://www.amyboard.com/',
+    tags: ['hardware', 'config', 'utility', 'firmware', 'webmidi', 'synth'],
+    description: 'The do-it-all complete synth for US$29.90.'
+  },
+  {
     id: 'synth-explorer',
     name: 'Synth Explorer',
     url: 'https://synth-explorer.com',
