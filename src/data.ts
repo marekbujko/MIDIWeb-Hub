@@ -12,7 +12,7 @@ export const initialSites: Site[] = [
   {
     id: 'amyboard',
     name: 'AMYboard Online’,
-    url: 'https://www.amyboard.com/',
+    url: 'https://www.amyboard.com/editor/',
     tags: ['hardware', 'config', 'utility', 'firmware', 'webmidi', 'synth'],
     description: 'The do-it-all complete synth for US$29.90.'
   },
