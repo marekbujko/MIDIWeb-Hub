@@ -94,9 +94,8 @@ export const initialSites: Site[] = [
     name: 'NOODLERACK - Patchable Modular',
     url: 'https://noodlerack.com',
     tags: ['modular', 'eurorack', 'modules', 'synth'],
-    description:
-      'Patchable Modular Synthesizer',
-  },  
+    description: 'Patchable Modular Synthesizer',
+  },
   {
     id: 'ryoturia',
     name: 'ryoturia - ThreeJS Synth',
