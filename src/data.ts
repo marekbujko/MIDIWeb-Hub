@@ -15,6 +15,11 @@ export const initialSites: Site[] = [
     url: 'https://www.amyboard.com/editor/',
     tags: ['open-source', 'config', 'utility', 'firmware', 'webmidi', 'synth'],
     description: 'Online editor for AMYboard open-source synth module.',
+    sponsor: {
+      active: true,
+      tier: 'supporter',
+      since: '2026-06-23',
+    },
   },
   {
     id: 'synth-explorer',
