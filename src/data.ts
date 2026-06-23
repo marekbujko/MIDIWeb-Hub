@@ -11,10 +11,10 @@ export const initialSites: Site[] = [
   },
   {
     id: 'amyboard',
-    name: 'AMYboard Online’,
+    name: 'AMYboard Online',
     url: 'https://www.amyboard.com/editor/',
-    tags: ['hardware', 'config', 'utility', 'firmware', 'webmidi', 'synth'],
-    description: 'The do-it-all complete synth for US$29.90.'
+    tags: ['open-source', 'config', 'utility', 'firmware', 'webmidi', 'synth'],
+    description: 'Online editor for AMYboard open-source synth module.',
   },
   {
     id: 'synth-explorer',
