@@ -245,6 +245,14 @@ export const initialSites: Site[] = [
       since: '2026-05-11',
     },
   },
+  {
+    id: 'rowbot',
+    name: 'ROWBOT',
+    url: 'https://playrowbot.com',
+    tags: ['tracker', 'sequencer', 'synth', 'webaudio', 'midi', 'chiptune'],
+    description:
+      'A browser-based music tracker with synthesized instruments — a whole song fits in a shareable link. Supports MIDI in for note entry and MIDI out for sequencing external hardware and software.',
+  },
 ];
 
 export const allTags = Array.from(
